@@ -1,4 +1,4 @@
-name = "siren"
+name = "SIREN"
 main = "build/worker/shim.mjs"
 compatibility_date = "2024-05-23"
 minify = true
@@ -15,5 +15,5 @@ build = { command = "cargo install worker-build && worker-build --dev" }
 
 [vars]
 UUID = "5958aa8c-8412-4ff9-836f-7ffafa61bab9"
-MAIN_PAGE_URL = "https://raw.githubusercontent.com/FoolVPN-ID/Siren/refs/heads/master/web/index.html"
-SUB_PAGE_URL = "https://raw.githubusercontent.com/FoolVPN-ID/Siren/refs/heads/master/web/sub.html"
+MAIN_PAGE_URL = "https://raw.https://github.com/ata666az/SIREN/blob/master/web/index.html"
+SUB_PAGE_URL = "https://raw.https://github.com/ata666az/SIREN/blob/master/web/sub.html"
